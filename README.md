@@ -14,7 +14,7 @@ Dataset of 5 most watched videos on YouTube by 2015 is taken as input that has C
 Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
 
-# [Project Presentation](CS418_CourseProject.pptx)
+# [Project Presentation](CS418_DS_Project.pptx)
 
 
 # [Project Report](https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/Youtube%20comments%20spam%20classification.pdf)
