@@ -13,7 +13,7 @@ Dataset of 5 most watched videos on YouTube by 2015 is taken as input that has C
 
 Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
-# [Project Presentation](CS418_CourseProject.pptx)
+
 
 
 
